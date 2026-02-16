@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Dido – Tolga Yayalar</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Dido (2021)</h1>
+
+<p>
+High-order ambisonic stage work.  
+Commissioned by 212 Festival (Istanbul).  
+Premiered at Bilkent International Laboratory Theatre, Ankara.
+</p>
+
+<p>
+Dido explores spatialized sound, immersive listening environments,
+and the relationship between voice, memory, and political resonance.
+</p>
+
+<h2>Documentation</h2>
+
+<img src="images/dido_1.jpg" alt="Dido performance image 1">
+<img src="images/dido_2.jpg" alt="Dido performance image 2">
+
+<p>
+Recording: 
+<a href="#" target="_blank">Audio link</a>
+</p>
+
+<p>
+<a href="index.html">← Back to Works</a>
+</p>
+
+</body>
+</html>
